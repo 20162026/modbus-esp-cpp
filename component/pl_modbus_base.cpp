@@ -1,5 +1,6 @@
 #include "pl_modbus_base.h"
 #include "esp_check.h"
+#include "rom/ets_sys.h"
 
 //==============================================================================
 
